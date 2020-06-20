@@ -1,0 +1,28 @@
+- name: beautiful-react-hooks
+  url: https://github.com/beautifulinteractions/beautiful-react-hooks
+  description: A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 
+  status: in progress
+  tags:
+    - JavaScript
+    - React
+  icon: github
+
+- name: frontend-challenges
+  url: https://github.com
+  description: Listing some playful open-source's challenges of jobs to test your knowledge
+  status: live
+  tags:
+    - frontend
+    - challenge
+  icon: website
+  image: images/frontend-challenge.png
+
+- name: React NetEase Music Player
+  url: https://github.com/bryantchan/React-NetEase-Music-Player
+  description: A music player webapp developed with NetEase API and React
+  status: live
+  tags:
+    - React
+    - Music 
+  icon: website
+  image: images/music-player.png
